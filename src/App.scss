@@ -1,0 +1,17 @@
+#modalcomponent {
+  input {
+    border: none;
+    outline: none;
+    border-bottom:1px solid rgb(112, 112, 110);
+  }
+  label {
+    padding: 0 10px;
+  }
+}
+.chart {
+  margin-left: 4%;
+  float: left;
+} 
+#resetbtn {
+  margin-left: 4%;
+}
